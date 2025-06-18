@@ -1,0 +1,9 @@
+C:\Users\USER\Desktop\Java\17LiveStream\src\main\java\com\seventeenLive\parser\JsonDataParser.java
+C:\Users\USER\Desktop\Java\17LiveStream\src\main\java\com\seventeenLive\StreamDeduplicationApplication.java
+C:\Users\USER\Desktop\Java\17LiveStream\src\main\java\com\seventeenLive\model\Section.java
+C:\Users\USER\Desktop\Java\17LiveStream\src\main\java\com\seventeenLive\model\StreamerData.java
+C:\Users\USER\Desktop\Java\17LiveStream\src\main\java\com\seventeenLive\service\StreamDeduplicationService.java
+C:\Users\USER\Desktop\Java\17LiveStream\src\main\java\com\seventeenLive\strategy\GreedyDeduplicationStrategy.java
+C:\Users\USER\Desktop\Java\17LiveStream\src\main\java\com\seventeenLive\writer\JsonOutputWriter.java
+C:\Users\USER\Desktop\Java\17LiveStream\src\main\java\com\seventeenLive\factory\DeduplicationStrategyFactory.java
+C:\Users\USER\Desktop\Java\17LiveStream\src\main\java\com\seventeenLive\strategy\DeduplicationStrategy.java

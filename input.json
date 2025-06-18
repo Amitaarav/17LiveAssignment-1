@@ -1,0 +1,73 @@
+[
+  {
+    "sectionData": [
+      {
+        "streamerID": "db5309b4-053b-4013-9309-5e0e6a7d0a2a"
+      },
+      {
+        "streamerID": "75d95031-72e7-4bee-be92-75494e1530ff"
+      },
+      {
+        "streamerID": "75d95031-72e7-4bee-be92-75494e1530ff"
+      },
+      {
+        "streamerID": "9b345f78-1973-498d-a06e-935d5c83aae5"
+      },
+      {
+        "streamerID": "691f160b-131e-4572-b727-e7d88993428f"
+      },
+      {
+        "streamerID": "918d3470-23aa-414e-b81d-28bee67c0c27"
+      }
+    ],
+    "lokalisedKey": "streamers_daily_life_updates",
+    "sectionID": "Streamers' Daily Life Updates"
+  },
+  {
+    "mlDynamicLabel": true,
+    "labelID": "",
+    "sectionData": [
+      {
+        "streamerID": "4c2b41d1-f4ce-438e-a0f5-317b7cbf5c3a"
+      },
+      {
+        "streamerID": "a352f686-ee93-430a-9e27-9fce686138f5"
+      },
+      {
+        "streamerID": "75d95031-72e7-4bee-be92-75494e1530ff"
+      },
+      {
+        "streamerID": "9b345f78-1973-498d-a06e-935d5c83aae5"
+      },
+      {
+        "streamerID": "75d95031-72e7-4bee-be92-75494e1530ff"
+      },
+      {
+        "streamerID": "691f160b-131e-4572-b727-e7d88993428f"
+      }
+    ],
+    "sectionID": "Social Media Trends & Influencers"
+  },
+  {
+    "mlDynamicLabel": true,
+    "sectionData": [
+      {
+        "streamerID": "db53e9b4-053b-4013-9309-5e0e6a7d0a2a"
+      },
+      {
+        "streamerID": "75d95031-72e7-4bee-be92-75494e1530ff"
+      },
+      {
+        "streamerID": "75e95031-72e7-4bee-be92-75494e1530ff"
+      },
+      {
+        "streamerID": "9b3465f78-1973-498d-a06e-935d5c83aae5"
+      },
+      {
+        "streamerID": "691f162b-131e-4572-b727-e7d88993428f"
+      }
+    ],
+    "lokalisedKey": "music",
+    "sectionID": "music"
+  }
+]

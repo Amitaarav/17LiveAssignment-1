@@ -1,0 +1,13 @@
+com\seventeenlive\model\Section.class
+com\seventeenlive\StreamDeduplicationApplication.class
+com\seventeenlive\model\StreamerData.class
+com\seventeenlive\parser\JsonDataParser$1.class
+com\seventeenlive\strategy\GreedyDeduplicationStrategy.class
+com\seventeenlive\parser\JsonDataParser$2.class
+com\seventeenlive\parser\JsonDataParser.class
+com\seventeenlive\parser\JsonDataParser$3.class
+com\seventeenlive\service\StreamDeduplicationService.class
+com\seventeenlive\factory\DeduplicationStrategyFactory.class
+com\seventeenlive\factory\DeduplicationStrategyFactory$StrategyType.class
+com\seventeenlive\strategy\DeduplicationStrategy.class
+com\seventeenlive\writer\JsonOutputWriter.class
