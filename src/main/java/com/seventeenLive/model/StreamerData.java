@@ -2,17 +2,13 @@ package com.seventeenlive.model;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 
-/**
- * Represents a single streamer data entry.
- * Follows Single Responsibility Principle - only handles streamer data.
- */
 public class StreamerData {
     
     @JsonProperty("streamerID")
     private String streamerId;
     
     public StreamerData() {
-        // Default constructor for Jackson
+
     }
     
     public StreamerData(String streamerId) {

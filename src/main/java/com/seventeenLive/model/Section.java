@@ -1,13 +1,10 @@
 package com.seventeenlive.model;
 
-import com.fasterxml.jackson.annotation.JsonProperty;
-import java.util.List;
 import java.util.ArrayList;
+import java.util.List;
 
-/**
- * Represents a section containing multiple streamers.
- * Follows Single Responsibility Principle - only handles section data.
- */
+import com.fasterxml.jackson.annotation.JsonProperty;
+
 public class Section {
     
     @JsonProperty("sectionData")
@@ -33,8 +30,7 @@ public class Section {
         this.sectionId = sectionId;
         this.sectionData = sectionData != null ? new ArrayList<>(sectionData) : new ArrayList<>();
     }
-    
-    // Getters and Setters
+
     public List<StreamerData> getSectionData() {
         return sectionData;
     }

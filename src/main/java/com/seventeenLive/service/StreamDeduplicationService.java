@@ -1,17 +1,14 @@
 package com.seventeenlive.service;
 
-import com.seventeenlive.model.Section;
-import com.seventeenlive.strategy.DeduplicationStrategy;
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
-
 import java.util.List;
 import java.util.Map;
 
-/**
- * Service class for stream deduplication operations.
- * Follows Single Responsibility Principle and Dependency Inversion Principle.
- */
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+
+import com.seventeenlive.model.Section;
+import com.seventeenlive.strategy.DeduplicationStrategy;
+
 public class StreamDeduplicationService {
     
     private static final Logger logger = LoggerFactory.getLogger(StreamDeduplicationService.class);

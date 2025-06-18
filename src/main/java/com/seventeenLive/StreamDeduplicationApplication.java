@@ -65,9 +65,6 @@ public class StreamDeduplicationApplication {
         }
     }
     
-    /**
-     * Main method - entry point of the application
-     */
     public static void main(String[] args) {
         if (args.length != 2) {
             System.err.println("Usage: java -jar stream-deduplication.jar <input-file> <output-file>");
